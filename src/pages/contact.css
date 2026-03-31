@@ -1,0 +1,149 @@
+.contact {
+  background: #0f0f0f;
+  position: relative;
+  z-index: 2;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 0;
+  position: relative;
+  z-index: 2;
+}
+
+.contact-left {
+  width: 50%;
+  color: #fff;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 45%;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  background: transparent;
+  border: 1px solid #444;
+  color: white;
+  border-radius: 5px;
+}
+
+.contact-form textarea {
+  height: 150px;
+}
+
+.contact-form button {
+  background: #ff5a36;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  width: 100px;
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.contact-form textarea {
+  height: 150px;
+}
+
+.contact-left h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.contact-left p {
+  font-size: 17px;
+}
+
+.contact-details {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 30%;
+  margin-top: 20px;
+}
+
+.span-div p {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.span-div a {
+  color: #aaaaaa;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .span-div p {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .span-div a {
+    color: #aaaaaa;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+  .contact-container {
+    flex-direction: column;
+    padding: 100px 50px;
+  }
+
+  .contact-left {
+    width: 100%;
+  }
+
+  .contact-form {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .contact-left p {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .contact-container {
+    flex-direction: column;
+  }
+
+  .contact-left {
+    width: 100%;
+  }
+
+  .contact-form {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .contact-left h1 {
+    font-size: 30px;
+  }
+
+  .contact-left p {
+    font-size: 14px;
+  }
+
+  .contact-details {
+    gap: 0;
+  }
+
+  .span-div {
+    width: 50%;
+  }
+
+  .span-div a {
+    font-size: 16px;
+  }
+}
