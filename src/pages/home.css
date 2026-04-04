@@ -73,10 +73,9 @@
   position: absolute;
   top: 0;
   left: 0;
-
   width: 0%;
   height: 100%;
-  background: #fff;
+  background: #ff5a36;
 
   z-index: -1;
   transition: width 0.4s ease;
@@ -87,7 +86,8 @@
 }
 
 .redirect-btn:hover {
-  color: #000;
+  color: #fff;
+  border: 1px solid #ff5a36;
 }
 
 @media screen and (min-width: 320px) and (max-width: 480px) {
@@ -99,7 +99,7 @@
   }
 }
 
-@media screen and (min-width: 481px) and (max-width: 768px){
+@media screen and (min-width: 481px) and (max-width: 768px) {
   .hero p {
     width: 75%;
   }
