@@ -13,15 +13,12 @@ export const Work = () => {
             <div className="work-container">
               <div className="work-left">
                 <h1>
-                  <span>Look, choose,</span> <br />
-                  <span>adjust, launch</span>
+                  <span>Visuals that stop</span> <br />
+                  <span>the scroll.</span>
                 </h1>
               </div>
               <div className="work-right">
-                <p>
-                  Take a look at the theme provided. Choose the suitable layout.
-                  Customize it. Use the selected style and launch the project.
-                </p>
+                <p>Delivering high-quality work with a strong focus on detail and creativity—ensuring every project meets client expectations and satisfaction.</p>
               </div>
             </div>
           </div>

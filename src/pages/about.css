@@ -1,6 +1,6 @@
 .about {
   min-height: 100vh;
-  background: #0f0f0f;
+  background: #000;
   color: white;
   position: relative;
 }
@@ -9,7 +9,7 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  padding: 30px 0;
+  padding: 50px 0 0;
 }
 
 .about-left {
@@ -37,8 +37,8 @@
 .desc {
   margin-top: 35px;
   color: #aaa;
-  line-height: 1.6;
-  font-size: 20px;
+  line-height: 24px;
+  font-size: 18px;
 }
 
 .socials {
@@ -61,7 +61,7 @@
 }
 
 .circle img {
-  width: 500px;
+  width: 470px;
   height: auto;
   object-fit: cover;
 }

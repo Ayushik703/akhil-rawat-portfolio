@@ -13,12 +13,8 @@ export const Home = () => {
       <section className="hero">
         <div className="container">
           <h1>Akhil Rawat</h1>
-          <p>
-            Creative and results-oriented UI/UX designer with three years of
-            hands-on experience translating complex concepts into user-friendly
-            designs. Proficient in wireframing.
-          </p>
-          <a href="/about" className="redirect-btn">Learn More</a>
+          <p>A Creative Designer Helping brands stand out through eye-catching graphics and professional video editing. Focused on quality, creativity, and fast delivery.</p>
+          <a href="/about" className="redirect-btn">Let's work together</a>
         </div>
       </section>
     </div>

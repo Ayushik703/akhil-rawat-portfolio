@@ -43,15 +43,9 @@ export const Contact = () => {
         <div className="contact-container">
           <div className="contact-left">
             <h1>
-              Got A Project Or <br /> A Partnership In Mind?
+              Got an idea? <br /> Let’s make it happen.
             </h1>
-            <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi
-              corporis eaque impedit enim velit a quasi fuga nam, voluptatem
-              odio rerum laudantium voluptate perferendis, perspiciatis deleniti
-              nisi, non cum consectetur. Lorem ipsum dolor sit amet consectetur
-              adipisicing elit.
-            </p>
+            <p>Feel free to reach out for video editing, graphic design, or creative projects—let’s bring your ideas to life.</p>
 
             <div className="contact-details">
               <div className="span-div">
