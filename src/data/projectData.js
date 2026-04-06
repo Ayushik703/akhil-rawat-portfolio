@@ -17,7 +17,7 @@ export const projectsData = [
   {
     id: 4,
     type: "video",
-    url: "https://res.cloudinary.com/dprcdacxw/video/upload/v1774969746/Rj_s_IG_September_content_post02_2024_V1.0_iunpkj.mp4"
+    url: "https://res.cloudinary.com/dprcdacxw/video/upload/v1775453961/LKK_Video_April_01_2024_V1.2_m9tzfk.mp4"
   },
   {
     id: 5,
@@ -58,5 +58,55 @@ export const projectsData = [
     id: 12,
     type: "video",
     url: "https://res.cloudinary.com/dprcdacxw/video/upload/v1774969819/Bustle_IG_November_Post12_Content_2025_v1.3_gmr3qm.mp4"
+  },
+  {
+    id: 13,
+    type: "video",
+    url: "https://res.cloudinary.com/dprcdacxw/video/upload/v1775453956/TigerTrade_Video02_2025_V1.1_mqlyxp.mp4"
+  },
+  {
+    id: 14,
+    type: "video",
+    url: "https://res.cloudinary.com/dprcdacxw/video/upload/v1775453917/ThinLizzy_Video_August_01_2024_V1.0_c6kpo6.mp4"
+  },
+  {
+    id: 15,
+    type: "image",
+    url: "https://res.cloudinary.com/dprcdacxw/image/upload/v1775453914/Nairn_s_NZ_Jan_post03_content_2026_V1.0_lweem5.png"
+  },
+  {
+    id: 16,
+    type: "image",
+    url: "https://res.cloudinary.com/dprcdacxw/image/upload/v1775453913/Radiance_May_IG_post02_content_2025_V1.0_uvljee.png"
+  },
+  {
+    id: 17,
+    type: "image",
+    url: "https://res.cloudinary.com/dprcdacxw/image/upload/v1775453912/Radiance_April_IG_post12_content_2025_V1.0_hanfzq.png"
+  },
+  {
+    id: 18,
+    type: "image",
+    url: "https://res.cloudinary.com/dprcdacxw/image/upload/v1775453905/Zeronet_Ads_Feb_Content_post01_2025_V1.0_t32fpc.png"
+  },
+  {
+    id: 19,
+    type: "image",
+    url: "https://res.cloudinary.com/dprcdacxw/image/upload/v1775453904/Voco_IG_April_Post01_Content_2025_v1.0_j86hdq.png"
+  },
+  {
+    id: 20,
+    type: "image",
+    url: "https://res.cloudinary.com/dprcdacxw/image/upload/v1775453903/Radiance_April_IG_post11_content_2025_V1.0_q3sldx.png"
+  },
+  {
+    id: 21,
+    type: "image",
+    url: "https://res.cloudinary.com/dprcdacxw/image/upload/v1775453901/Samson_IG_July_content_post05_2025_v1.0_nepci4.png"
+  },
+  {
+    id: 22,
+    type: "video",
+    url: "https://res.cloudinary.com/dprcdacxw/video/upload/v1775454270/OffsetPrototypes_V1.7_twpf9c.mp4"
   },
 ];
